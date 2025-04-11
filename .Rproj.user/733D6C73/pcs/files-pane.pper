@@ -2,8 +2,8 @@
     "sortOrder": [
         {
             "columnIndex": 2,
-            "ascending": true
+            "ascending": false
         }
     ],
-    "path": "~/collaborating_using_renv/collaborating_usinig_renv"
+    "path": "~/collaborating_using_renv"
 }

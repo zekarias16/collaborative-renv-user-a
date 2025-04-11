@@ -1,0 +1,24 @@
+{
+    "id": "DDDEB36D",
+    "path": "~/collaborating_using_renv/Makefile",
+    "project_path": null,
+    "type": "makefile",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1744389478057.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1668042174,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1668042174,
+    "read_only": false,
+    "read_only_alternatives": []
+}
